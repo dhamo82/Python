@@ -6,3 +6,4 @@ text.collect()
 text.dispaly()
 df = sc.query("select * from tables/sample_txt")
 df.head()
+#adding comment 
